@@ -1,0 +1,14 @@
+C:\Users\Alisson\Documents\ApiMagazine\bin\Debug\netcoreapp2.1\ApiMagazine.deps.json
+C:\Users\Alisson\Documents\ApiMagazine\bin\Debug\netcoreapp2.1\ApiMagazine.runtimeconfig.json
+C:\Users\Alisson\Documents\ApiMagazine\bin\Debug\netcoreapp2.1\ApiMagazine.runtimeconfig.dev.json
+C:\Users\Alisson\Documents\ApiMagazine\bin\Debug\netcoreapp2.1\ApiMagazine.dll
+C:\Users\Alisson\Documents\ApiMagazine\bin\Debug\netcoreapp2.1\ApiMagazine.pdb
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.csprojAssemblyReference.cache
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.RazorAssemblyInfo.cache
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.RazorAssemblyInfo.cs
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.AssemblyInfoInputs.cache
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.AssemblyInfo.cs
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.RazorTargetAssemblyInfo.cache
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.dll
+C:\Users\Alisson\Documents\ApiMagazine\obj\Debug\netcoreapp2.1\ApiMagazine.pdb
